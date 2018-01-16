@@ -1,0 +1,90 @@
+{
+	"textIds": [
+		"grc_sblgnt",
+		"grc_wh",
+		"heb_wlc",
+		"uw_ar_avd",
+		"uw_en_udb-en",
+		"uw_en_ulb-en",
+		"uw_ms_kszi"
+	],
+	"textInfoData": [
+		{
+			"id": "grc_sblgnt",
+			"name": "SBL Greek New Testament",
+			"nameEnglish": "SBL Greek New Testament)",
+			"abbr": "SBLGNT",
+			"lang": "grc",
+			"langName": "ελληνικά",
+			"langNameEnglish": "Greek",
+			"dir": "ltr",
+			"type": "bible"
+		},
+		{
+			"id": "grc_wh",
+			"name": "Wescott & Hort",
+			"nameEnglish": "",
+			"abbr": "GWH",
+			"lang": "grc",
+			"langName": "ελληνικά",
+			"langNameEnglish": "Greek",
+			"dir": "ltr",
+			"type": "bible"
+		},
+		{
+			"id": "heb_wlc",
+			"name": "Westminster Leningrad Codex",
+			"nameEnglish": "Westminster Leningrad Codex",
+			"abbr": "WLC",
+			"lang": "heb",
+			"langName": "עִבְרִית",
+			"langNameEnglish": "Hebrew",
+			"dir": "rtl",
+			"type": "bible"
+		},
+		{
+			"id": "uw_ar_avd",
+			"name": "ﺎﻠﻜﺗﺎﺑ ﺎﻠﻤﻗﺪﺳ ﺏﺎﻠﻠﻏﺓ ﺎﻠﻋﺮﺒﻳﺓ، ﻑﺎﻧ ﺩﺎﻴﻛ",
+			"nameEnglish": "",
+			"abbr": "AVD",
+			"lang": "ar",
+			"langName": "العربية",
+			"langNameEnglish": "Arabic",
+			"dir": "rtl",
+			"type": "bible"
+		},
+		{
+			"id": "uw_en_udb-en",
+			"name": "Unlocked Dynamic",
+			"nameEnglish": "",
+			"abbr": "UDB-EN",
+			"lang": "en",
+			"langName": "English",
+			"langNameEnglish": "English",
+			"dir": "ltr",
+			"type": "bible"
+		},
+		{
+			"id": "uw_en_ulb-en",
+			"name": "Unlocked Literal",
+			"nameEnglish": "",
+			"abbr": "ULB-EN",
+			"lang": "en",
+			"langName": "English",
+			"langNameEnglish": "English",
+			"dir": "ltr",
+			"type": "bible"
+		},
+		{
+			"id": "uw_ms_kszi",
+			"name": "Kitab Suci Zabur Injil",
+			"nameEnglish": "Kitab Suci Zabur Injil",
+			"abbr": "KSZI",
+			"lang": "ms",
+			"langName": "Bahasa Melayu",
+			"langNameEnglish": "Malay",
+			"dir": "ltr",
+			"type": "bible"
+		}
+	]
+}
